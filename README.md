@@ -3,7 +3,7 @@
 ## Lab 2
 
 ### App Description
-Lab 1: Flashcard App
+Lab 2: Flashcard App
 
 ### App Walk-though
 <img src="Lab2.gif" width=200><br>
